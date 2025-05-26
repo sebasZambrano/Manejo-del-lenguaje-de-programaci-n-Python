@@ -1,2 +1,2 @@
 # Manejo-del-lenguaje-de-programaci-n-Python
-Manejo del lenguaje de programación Python
+El presente repositorio corresponde al desarrollo de la Actividad 4, cuyo objetivo es apropiar las bases fundamentales del lenguaje de programación Python mediante el desarrollo de un algoritmo orientado al análisis y selección de diseños de ruedas para patines, cumpliendo parámetros internacionales establecidos. Se empleó Python por ser un lenguaje de alto nivel ampliamente utilizado en entornos de análisis de datos y alto rendimiento.
